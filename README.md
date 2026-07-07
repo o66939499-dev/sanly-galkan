@@ -3,7 +3,7 @@
 
 **Live demo:** https://o66939499-dev.github.io/sanly-galkan/
 
-Sanly Galkan
+Sanly Galkan — şahsy maglumatlary goramak üçin döredilen, doly brauzer içinde işleýän, mugt we açyk çeşmeli howpsuzlyk platformasy. Hiç bir maglumat serwere iberilmeýär — ähli amallar ulanyjynyň öz enjamynda ýerine ýetirilýär.
 
 ## ✨ Aýratynlyklar
 
