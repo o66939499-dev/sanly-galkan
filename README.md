@@ -1,5 +1,5 @@
 
-# 🛡️ Sanly Galkan — Cryptographic Protection System
+# Sanly Galkan — Cryptographic Protection System
 
 **Live demo:** https://o66939499-dev.github.io/sanly-galkan/
 
