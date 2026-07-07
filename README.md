@@ -34,8 +34,8 @@ Just visit the link below — no installation required, it runs directly in your
 
 ## 👩‍🎓 Author
 
-**Seýitmuradowa Ogulnur Ahmedowna**
-Türkmenabat, School No. 13, 12th grade
+**Seyitmuradowa Ogulnur Ahmedowna**
+Turkmenabat city, School No. 13, 12th grade
 
 ---
 
