@@ -1,40 +1,42 @@
-[README.md](https://github.com/user-attachments/files/29736727/README.md)
-# 🛡️ Sanly Galkan — Kriptografik Gorag Ulgamy
+
+# 🛡️ Sanly Galkan — Cryptographic Protection System
 
 **Live demo:** https://o66939499-dev.github.io/sanly-galkan/
 
-Sanly Galkan — şahsy maglumatlary goramak üçin döredilen, doly brauzer içinde işleýän, mugt we açyk çeşmeli howpsuzlyk platformasy. Hiç bir maglumat serwere iberilmeýär — ähli amallar ulanyjynyň öz enjamynda ýerine ýetirilýär.
-
-## ✨ Aýratynlyklar
-
-- 🔐 **Faýl Şifrlemek/Açmak** — AES-256-GCM + PBKDF2-SHA512 (600,000 gaýtalama) bilen faýllary goramak
-- 🖼️ **Steganografiýa** — LSB algoritmi arkaly gizlin maglumaty surat içinde gizlemek/çykarmak
-- 📝 **Tekst Şifrlemek** — AES-256 bilen tekst maglumatyny kodlamak
-- 📲 **QR Parol Paýlaşma** — Parollary QR kod arkaly howpsuz paýlaşmak
-- 🌐 **Köp dilli goldaw** — Türkmençe, iňlisçe, rusça, ýaponça
-- 📱 **Doly responsive** — mobil, planşet we kompýuterde deň derejede işleýär
-- ⚡ **100% offline** — internet birikmesi bolmasa-da işleýär
-
-## 🛠️ Ulanylan tehnologiýalar
-
-| Tehnologiýa | Maksat |
-|---|---|
-| HTML5 / CSS3 / JavaScript | Esasy gurluş we stil |
-| Web Crypto API | AES-256-GCM we PBKDF2-SHA512 kriptografiýasy |
-| Canvas API | LSB steganografiýa amallary |
-| QRCode.js | QR kod döretmek/okamak |
-
-## 🚀 Ulanyp görmek
-
-Aşakdaky salga giriň, hiç hili gurnama gerek däl, göni brauzerde açylýar:
-
-👉 **https://o66939499-dev.github.io/sanly-galkan/**
-
-## 👩‍🎓 Awtor
-
-**Seýitmuradowa Ogulnur Ahmedowna**
-Türkmenabat şäheri, 13-nji orta mekdep, 12-nji synp
+Sanly Galkan is a free, open-source security platform for protecting personal data, running entirely in the browser. No data is ever sent to a server — all operations are performed locally on the user's own device.
 
 ---
 
-*Bu taslama bilim maksatly döredildi we mekdep taslamasy hökmünde hödürlenýär.*
+## ✨ Features
+
+- 🔐 **File Encryption/Decryption** — Protect files using AES-256-GCM + PBKDF2-SHA512 (600,000 iterations)
+- 🖼️ **Steganography** — Hide/extract secret data inside images using the LSB algorithm
+- 📝 **Text Encryption** — Encode text data with AES-256
+- 📲 **QR Password Sharing** — Share passwords securely via QR codes
+- 🌐 **Multilingual support** — Turkmen, English, Russian, Japanese
+- 📱 **Fully responsive** — works equally well on mobile, tablet, and desktop
+- ⚡ **100% offline** — works even without an internet connection
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| HTML5 / CSS3 / JavaScript | Core structure and styling |
+| Web Crypto API | AES-256-GCM and PBKDF2-SHA512 cryptography |
+| Canvas API | LSB steganography operations |
+| QRCode.js | Generating/scanning QR codes |
+
+## 🚀 Try It Out
+
+Just visit the link below — no installation required, it runs directly in your browser:
+
+👉 **https://o66939499-dev.github.io/sanly-galkan/**
+
+## 👩‍🎓 Author
+
+**Seýitmuradowa Ogulnur Ahmedowna**
+Türkmenabat, School No. 13, 12th grade
+
+---
+
+*This project was created for educational purposes and is submitted as a school project.*
