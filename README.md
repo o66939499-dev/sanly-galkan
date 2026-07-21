@@ -35,7 +35,7 @@ Just visit the link below — no installation required, it runs directly in your
 ## 👩‍🎓 Author
 
 **Seyitmuradowa Ogulnur Ahmedowna**
-Turkmenabat city, School No. 13, 12th grade
+Turkmenabat city, School No. 13
 
 ---
 
